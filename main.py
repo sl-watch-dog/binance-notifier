@@ -6,10 +6,7 @@ from urllib.parse import urlencode
 from datetime import datetime, timedelta
 
 # ✅ CONFIG - Replace with your details
-API_KEY = "s9quwQkHDljeEWLJYeexOLSL75XKNqBz9NRA5DPVY7ZDvQZ5RmCqEqJS3nVNlsMf"
-API_SECRET = "nkyGANNffDD8ZmvcZCvJOx3nSgP1MkrqV5dyCORgKiyXZUdYxGLyF2GqjEch5fNl"
-TELEGRAM_BOT_TOKEN = "7565965042:AAHCSXYKkB1roWKbrCpNYO2DJ2sGZJdGgC0"
-TELEGRAM_CHAT_ID = "-4684992430"
+
 
 import time
 import hmac
